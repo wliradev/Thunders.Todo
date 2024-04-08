@@ -1,0 +1,60 @@
+# Diretórios
+/bin/
+/obj/
+/packages/
+/temp/
+
+# Arquivos temporários
+*.user
+*.suo
+*.tmp
+*.log
+
+# Arquivos de configuração
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+launchSettings.json
+secrets.json
+
+# Arquivos de teste
+*.Test.cs
+*.Tests.cs
+*.Spec.cs
+*.Feature.cs
+*.Scenario.cs
+/test/
+/TestResults/
+
+# Documentação
+/doc/
+*.md
+
+# Pacotes NuGet
+*.nupkg
+*.nuspec
+
+# Arquivos de IDE
+*.csproj.user
+*.resharper
+
+# Arquivos de banco de dados
+*.mdf
+*.ldf
+
+# Diversos
+*.Designer.cs
+*.AssemblyInfo.cs
+*.vshost.exe
+*.publish.xml
+/Thunders.Todo.API/bin
+/Thunders.Todo.API/obj
+/Thunders.Todo.Application/bin
+/Thunders.Todo.Application/obj
+/Thunders.Todo.Domain/bin
+/Thunders.Todo.Domain/obj
+/Thunders.Todo.Infra/bin
+/Thunders.Todo.Infra/obj
+/Thunders.Todo.Tests/bin
+/Thunders.Todo.Tests/obj
+/.vs/Thunders.Todo
